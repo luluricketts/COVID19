@@ -1,0 +1,13 @@
+@media (min-width: 992px) {
+    #heat {
+        margin-top: -400px;
+    }
+    #whichtime {
+        margin-top:100px
+    }
+}
+@media (max-width: 991px)  {
+    #heat {
+        width:100%;
+    }
+}
